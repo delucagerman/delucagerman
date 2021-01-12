@@ -18,5 +18,5 @@
 
 Contactame en:
 delucagerman@protonmail.com -
-instagram: @delucagerman -
+instagram: (https://www.instagram.com/delucagerman/?hl=es)
 twiter: @germandeluca -
