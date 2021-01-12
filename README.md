@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola 👋 soy Germán De Luca
 
-<!--
-**delucagerman/delucagerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy un apasionado del desarrollo Web Backend y Frontend
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Estoy trabajando con Javascript, Nodejs, HTML5, CSS3 Bootstrap y ReactJs con bases SQL y MongoDB.
+
+🔀 Control de Version Git.
+
+🤝 Estoy buscando colaborar en proyectos Open Source.
+
+🌱 Estoy aprendiendo React, NextJS y MongoDB.
+
+💻 Me gusta aprender y mejorar constantemente, soy curioso por naturaleza.
+
+❤️ Me encanta aprender sobre programación en general.
+
+
+Contactame en:
+delucagerman@protonmail.com -
+instagram: @delucagerman -
+twiter: @germandeluca -
