@@ -17,6 +17,7 @@
 
 
 Contactame en:
-delucagerman@protonmail.com -
+delucagerman@protonmail.com |
+[@germandeluca](https://twitter.com/germandeluca) |
 [@delucagerman](https://www.instagram.com/delucagerman/?hl=es)
-twiter: @germandeluca -
+
