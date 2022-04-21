@@ -3,13 +3,11 @@
 ## Soy un apasionado del desarrollo Web Backend y Frontend
 
 
-🔭 Estoy trabajando con Javascript, Nodejs, HTML5, CSS3 Bootstrap y ReactJs con bases SQL y MongoDB.
+🔭 Estoy trabajando con Javascript, Nodejs, HTML5, CSS3 Bootstrap , React Native y ReactJs con bases SQL y MongoDB.
 
 🔀 Control de Version Git.
 
 🤝 Estoy buscando colaborar en proyectos Open Source.
-
-🌱 Estoy aprendiendo React, NextJS y MongoDB.
 
 💻 Me gusta aprender y mejorar constantemente, soy curioso por naturaleza.
 
