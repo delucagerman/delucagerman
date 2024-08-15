@@ -1,6 +1,7 @@
 # Hola 👋 soy Germán De Luca
 
-## Soy un apasionado del desarrollo Web Backend y Frontend
+## Soy un apasionado del desarrollo Web y Mobile Frontend
+## Me especializo en React y React Native
 
 
 🔭 Estoy trabajando con Javascript, Nodejs, HTML5, CSS3 Bootstrap , React Native y ReactJs con bases SQL y MongoDB.
